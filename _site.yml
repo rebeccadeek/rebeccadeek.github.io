@@ -1,0 +1,22 @@
+name: "Rebecca A. Deek"
+output_dir: "."
+navbar:
+  title: "Rebecca A. Deek"
+  type: default
+  left:
+    - text: "Publications"
+      href: publications.html
+    - text: "Software"
+      href: software.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:rebecca.deek@pennmedicine.upenn.edu
+    - icon: ai-cv ai-lg
+      href: ./resources/deek_rebecca_cv.pdf
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=f5zdvDAAAAAJ&hl=en&oi=ao
+    - icon: fa-github fa-lg
+      href: https://github.com/rebeccadeek/
+output:
+  html_document:
+    theme: sandstone

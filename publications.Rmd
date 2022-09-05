@@ -1,0 +1,34 @@
+---
+title: "[Publications](https://scholar.google.com/citations?user=f5zdvDAAAAAJ&hl=en&oi=ao)"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="academicons/css/academicons.min.css"/>
+
+In the following, $^\dagger$ denotes equal contribution.
+
+
+### 2022
+
+Deek, M.P.$^\dagger$, Van der Eecken, K.$^\dagger$, Sutera, P., **Deek, R.A.**, Mendes, A.A., Kiess, A., Phillips, R., Mishra, M., Rana, Z., Hailun, W., Antonarakis, E.S., Song, D.Y., DeWeese, T., Paller, C.J., Feng, F.Y., Wyatt, A., Pienta, K.J., Lotan, T.L., Ost, P. and Tran, P.T. (2022). Long Term Outcomes and Genetic Predictors of Response to Metastasis Directed Therapy Versus Observation in Oligometastatic Castration-Sensitive Prostate Cancer: A Pooled Analysis of the STOMP and ORIOLE Trials. *Journal of Clinical Oncology*. doi: [10.1200/JCO.22.00644](https://doi.org/10.1200/JCO.22.00644).
+
+Wei, S., Yin, D., Yu, S., Lin, X., Savani, M., Du, K., Ku, Y., Wu, D., Li, S., Liu, H., Tian, M., Chen, Y., Bowie, M., Hariharan, S., Waitkus, M., Keir, S., Sugarman, E., **Deek, R.A.**, Labrie, M., Khasraw, M., Lu, Y., Mills, G., Herlyn, H., Wu, K., Liu, L., Wei, Z., Flaherty, K., Abdullah, K., Zhang, G., and Ashley D. (2022). Anti-tumor Activity of a Mitochondrial Targeted HSP90 Inhibitor in Gliomas. *Clinical Cancer Research*. doi: [10.1158/1078-0432.ccr-21-0833](https://doi.org/10.1158/1078-0432.ccr-21-0833).
+
+### 2021
+
+**Deek, R. A.**, & Li, H. (2021). A Zero-Inflated Latent Dirichlet Allocation Model for Microbiome Studies. *Frontiers in genetics*, 11, 1844. doi: [10.3389/fgene.2020.602594](https://doi.org/10.3389/fgene.2020.602594).
+
+### 2019
+
+**Deek, R.A.**$^\dagger$, Nasser, J.$^\dagger$, Ghanem, A.$^\dagger$, Mardelli, M.$^\dagger$, Khazen, G., Salloum, A.K., Abchee, A., Ghassibe-Sabbagh, M. and Zalloua, P. (2019). Genome-wide association analysis of HDL-C in a Lebanese cohort. Plos one, 14(6), e0218443. doi: [10.1371/journal.pone.0218443](https://doi.org/10.1371/journal.pone.0218443).
+
+### 2018
+
+Chen, J.$^\dagger$, King, E.$^\dagger$, **Deek, R.A.**$^\dagger$, Wei, Z., Yu, Y., Grill, D., & Ballman, K. (2018). An omnibus test for differential distribution analysis of microbiome sequencing data. *Bioinformatics*, 34(4), 643-651. doi: [10.1093/bioinformatics/btx650](https://doi.org/10.1093/bioinformatics/btx650).
+
+### 2015
+
+Deek, R. (2015). Lessons From Nature: Defensive Designs for the Built Environment. In 5th International Conference on Building Resilience.

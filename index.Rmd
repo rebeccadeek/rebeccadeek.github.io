@@ -1,0 +1,44 @@
+---
+title: ""
+---
+
+<link rel="stylesheet" href="academicons/css/academicons.min.css"/>
+
+```{css, echo = FALSE}
+table, td, th {
+  border: none;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+td.center {
+  text-align: center;
+}
+
+td.justify {
+  text-align: justify;
+}
+
+
+h1, h2, h3, h4 {
+  text-align: center;
+}
+
+body {
+text-align: justify;
+}
+```
+
+## Rebecca A. Deek
+#### PhD Candidate in Biostatistics
+#### Perelman School of Medicine University of Pennsylvania
+
+<td class="justify"> I am a PhD candidate in Biostatistics at the [University of Pennsylvania](https://www.dbei.med.upenn.edu/). My advisor is Professor [Hongzhe Li](http://statgene.med.upenn.edu/) and my dissertation research focuses on statistical methods for omics data, specifically methods for the analysis of microbiome data. In this work, I develop fixed- and random-effects mixture margin copula models for quantifying microbial co-variations and a generative probabilistic model for dimensionality reduction and detection of sparse latent clusters in microbiome data. More recently, I have become interested in developing novel methodology for combining data from different studies, as well as different omics platforms.
+
+I also work closely with clinicians to determine the impact the microbiome has on human-host health and with radiation oncologists to identify biomarkers of treatment response and to better understand the biological underpinnings of the various states of metastasis. Broadly stated, my research interests are in statistical and machine learning methods for large, complex data sets, motivated by real world applications.
+
+I previously received my masters in Biostatistics from [Columbia University](https://www.publichealth.columbia.edu/academics/departments/biostatistics). My thesis investigated the association between genetic markers and HDL cholesterol levels in a Lebanese population. I also obtained my bachelors in Biology from [New Jersey Institute of Technology](https://biology.njit.edu/).</td>
