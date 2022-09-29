@@ -13,9 +13,11 @@ In the following, $^\dagger$ denotes equal contribution.
 
 ### 2022
 
+McGinniss, J.E., Whiteside, S.A., \textbf{\Me}, Simon-Soro, A., Graham-Wooten, J., Oyster, M., Brown, M., Cantu, E., Diamond, J.M., Lee, H., Christie, J.D. Bushman, F.D. and Collman, R.G. (2022). Primary graft dysfunction is associated with Prevotella-enriched allograft microbiome, elevated pepsin, and a hyper-inflammatory immune response at the time of lung transplantation. *American Journal of Respiratory and Critical Care Medicine*. doi: [10.1164/rccm.202112-2786OC](https://doi.org/10.1164/rccm.202112-2786OC).
+
 Deek, M.P.$^\dagger$, Van der Eecken, K.$^\dagger$, Sutera, P., **Deek, R.A.**, Mendes, A.A., Kiess, A., Phillips, R., Mishra, M., Rana, Z., Hailun, W., Antonarakis, E.S., Song, D.Y., DeWeese, T., Paller, C.J., Feng, F.Y., Wyatt, A., Pienta, K.J., Lotan, T.L., Ost, P. and Tran, P.T. (2022). Long Term Outcomes and Genetic Predictors of Response to Metastasis Directed Therapy Versus Observation in Oligometastatic Castration-Sensitive Prostate Cancer: A Pooled Analysis of the STOMP and ORIOLE Trials. *Journal of Clinical Oncology*. doi: [10.1200/JCO.22.00644](https://doi.org/10.1200/JCO.22.00644).
 
-Wei, S., Yin, D., Yu, S., Lin, X., Savani, M., Du, K., Ku, Y., Wu, D., Li, S., Liu, H., Tian, M., Chen, Y., Bowie, M., Hariharan, S., Waitkus, M., Keir, S., Sugarman, E., **Deek, R.A.**, Labrie, M., Khasraw, M., Lu, Y., Mills, G., Herlyn, H., Wu, K., Liu, L., Wei, Z., Flaherty, K., Abdullah, K., Zhang, G., and Ashley D. (2022). Anti-tumor Activity of a Mitochondrial Targeted HSP90 Inhibitor in Gliomas. *Clinical Cancer Research*. doi: [10.1158/1078-0432.ccr-21-0833](https://doi.org/10.1158/1078-0432.ccr-21-0833).
+Wei, S., Yin, D., Yu, S., Lin, X., Savani, M., Du, K., Ku, Y., Wu, D., Li, S., Liu, H., Tian, M., Chen, Y., Bowie, M., Hariharan, S., Waitkus, M., Keir, S., Sugarman, E., **Deek, R.A.**, Labrie, M., Khasraw, M., Lu, Y., Mills, G., Herlyn, H., Wu, K., Liu, L., Wei, Z., Flaherty, K., Abdullah, K., Zhang, G., and Ashley D. (2022). Anti-tumor Activity of a Mitochondrial Targeted HSP90 Inhibitor in Gliomas. *Clinical Cancer Research*, 28(10), 2180-2195. doi: [10.1158/1078-0432.ccr-21-0833](https://doi.org/10.1158/1078-0432.ccr-21-0833).
 
 ### 2021
 
