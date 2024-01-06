@@ -6,11 +6,11 @@ navbar:
   left:
     - text: "Publications"
       href: publications.html
-    - text: "Software"
+    - text: "Open-source software"
       href: software.html
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:rebecca.deek@pennmedicine.upenn.edu
+      href: mailto:rdeek@pitt.edu
     - icon: ai-cv ai-lg
       href: ./resources/deek_rebecca_cv.pdf
     - icon: ai-google-scholar ai-lg
@@ -19,4 +19,4 @@ navbar:
       href: https://github.com/rebeccadeek/
 output:
   html_document:
-    theme: sandstone
+    theme: readable

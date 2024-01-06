@@ -11,12 +11,12 @@
 
 
 
-<title>index.knit</title>
+<title>Rebecca A. Deek</title>
 
-<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -180,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -189,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -255,12 +248,12 @@ $(document).ready(function () {
   <a href="publications.html">Publications</a>
 </li>
 <li>
-  <a href="software.html">Software</a>
+  <a href="software.html">Open-source software</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="mailto:rebecca.deek@pennmedicine.upenn.edu">
+  <a href="mailto:rdeek@pitt.edu">
     <span class="fa fa-envelope fa-lg"></span>
      
   </a>
@@ -292,6 +285,7 @@ $(document).ready(function () {
 
 
 
+<h1 class="title toc-ignore">Rebecca A. Deek</h1>
 
 </div>
 
@@ -318,48 +312,42 @@ td.justify {
 
 
 h1, h2, h3, h4 {
-  text-align: center;
+  text-align: left;
 }
 
 body {
 text-align: justify;
 }
 </style>
-<div id="rebecca-a.-deek" class="section level2">
-<h2>Rebecca A. Deek</h2>
-<div id="phd-candidate-in-biostatistics" class="section level4">
-<h4>PhD Candidate in Biostatistics</h4>
-</div>
-<div id="perelman-school-of-medicine-university-of-pennsylvania"
+<div id="assistant-professor-of-biostatistics-university-of-pittsburgh"
 class="section level4">
-<h4>Perelman School of Medicine University of Pennsylvania</h4>
+<h4>Assistant Professor of Biostatistics, University of Pittsburgh</h4>
+<hr />
 <td class="justify">
-<p>I am a PhD candidate in Biostatistics at the <a
-href="https://www.dbei.med.upenn.edu/">University of Pennsylvania</a>.
-My advisor is Professor <a href="http://statgene.med.upenn.edu/">Hongzhe
-Li</a> and my dissertation research focuses on statistical methods for
-omics data, specifically methods for the analysis of microbiome data. In
-this work, I develop fixed- and random-effects mixture margin copula
-models for quantifying microbial co-variations and a generative
-probabilistic model for dimensionality reduction and detection of sparse
-latent clusters in microbiome data. More recently, I have become
-interested in developing novel methodology for combining data from
-different studies, as well as different omics platforms.</p>
-<p>I also work closely with clinicians to determine the impact the
-microbiome has on human-host health and with radiation oncologists to
-identify biomarkers of treatment response and to better understand the
-biological underpinnings of the various states of metastasis. Broadly
-stated, my research interests are in statistical and machine learning
-methods for large, complex data sets, motivated by real world
+<p>I am an Assistant Professor of Biostatistics at the <a
+href="https://www.sph.pitt.edu/biostatistics">University of
+Pittsburgh</a>. My research focuses on statistical methods for omics
+data, with an emphasis on metagenomics and multiomics integration. As
+sequencing technologies continue to advance and their adoption in
+large-scale medical studies grows, many unique statistical and
+computational challenges cannot be addressed with existing techniques
+thus requiring methodological innovation.</p>
+<p>I also work closely with clinicians to determine the impact that
+genetics and genomics, as well as their interplay, have on human health.
+Broadly, my research interests are in statistical and machine learning
+methods for large and complex data sets, motivated by real world
 applications.</p>
-I previously received my masters in Biostatistics from <a
+I received my PhD from the <a
+href="https://www.dbei.med.upenn.edu/">University of Pennsylvania</a>
+under the supervision of Professor <a
+href="http://statgene.med.upenn.edu/">Hongzhe Li</a> and Masters of
+Science in Biostatistics from <a
 href="https://www.publichealth.columbia.edu/academics/departments/biostatistics">Columbia
-University</a>. My thesis investigated the association between genetic
-markers and HDL cholesterol levels in a Lebanese population. I also
-obtained my bachelors in Biology from <a
-href="https://biology.njit.edu/">New Jersey Institute of Technology</a>.
+University</a>. I also obtained my Bachelors of Science in Biology from
+<a href="https://biology.njit.edu/">New Jersey Institute of
+Technology</a>.
 </td>
-</div>
+<hr />
 </div>
 
 

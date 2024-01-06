@@ -13,10 +13,10 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -29,14 +29,14 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -183,8 +183,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -192,16 +192,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -331,12 +324,12 @@ div.tocify {
   <a href="publications.html">Publications</a>
 </li>
 <li>
-  <a href="software.html">Software</a>
+  <a href="software.html">Open-source software</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="mailto:rebecca.deek@pennmedicine.upenn.edu">
+  <a href="mailto:rdeek@pitt.edu">
     <span class="fa fa-envelope fa-lg"></span>
      
   </a>
@@ -375,68 +368,87 @@ href="https://scholar.google.com/citations?user=f5zdvDAAAAAJ&amp;hl=en&amp;oi=ao
 
 
 <p><link rel="stylesheet" href="academicons/css/academicons.min.css"/></p>
+<hr />
 <p>In the following, <span class="math inline">\(^\dagger\)</span>
 denotes equal contribution.</p>
 <div id="section" class="section level3">
-<h3>2022</h3>
-<p>McGinniss, J.E., Whiteside, S.A., <strong>Deek, R.A.</strong>,
-Simon-Soro, A., Graham-Wooten, J., Oyster, M., Brown, M., Cantu, E.,
-Diamond, J.M., Lee, H., Christie, J.D. Bushman, F.D. and Collman, R.G.
-(2022). Primary graft dysfunction is associated with Prevotella-enriched
-allograft microbiome, elevated pepsin, and a hyper-inflammatory immune
-response at the time of lung transplantation. <em>American Journal of
-Respiratory and Critical Care Medicine</em>. doi: <a
-href="https://doi.org/10.1164/rccm.202112-2786OC">10.1164/rccm.202112-2786OC</a>.</p>
-<p>Deek, M.P.<span class="math inline">\(^\dagger\)</span>, Van der
-Eecken, K.<span class="math inline">\(^\dagger\)</span>, Sutera, P.,
-<strong>Deek, R.A.</strong>, Mendes, A.A., Kiess, A., Phillips, R.,
-Mishra, M., Rana, Z., Hailun, W., Antonarakis, E.S., Song, D.Y.,
-DeWeese, T., Paller, C.J., Feng, F.Y., Wyatt, A., Pienta, K.J., Lotan,
-T.L., Ost, P. and Tran, P.T. (2022). Long Term Outcomes and Genetic
-Predictors of Response to Metastasis Directed Therapy Versus Observation
-in Oligometastatic Castration-Sensitive Prostate Cancer: A Pooled
-Analysis of the STOMP and ORIOLE Trials. <em>Journal of Clinical
-Oncology</em>. doi: <a
-href="https://doi.org/10.1200/JCO.22.00644">10.1200/JCO.22.00644</a>.</p>
-<p>Wei, S., Yin, D., Yu, S., Lin, X., Savani, M., Du, K., Ku, Y., Wu,
-D., Li, S., Liu, H., Tian, M., Chen, Y., Bowie, M., Hariharan, S.,
-Waitkus, M., Keir, S., Sugarman, E., <strong>Deek, R.A.</strong>,
-Labrie, M., Khasraw, M., Lu, Y., Mills, G., Herlyn, H., Wu, K., Liu, L.,
-Wei, Z., Flaherty, K., Abdullah, K., Zhang, G., and Ashley D. (2022).
-Anti-tumor Activity of a Mitochondrial Targeted HSP90 Inhibitor in
-Gliomas. <em>Clinical Cancer Research</em>, 28(10), 2180-2195. doi: <a
-href="https://doi.org/10.1158/1078-0432.ccr-21-0833">10.1158/1078-0432.ccr-21-0833</a>.</p>
+<h3>2024</h3>
+<p>Deek AJ, Clegg DJ, <strong>Deek RA</strong>, Blackburn C, Scott CA,
+Holley T, Gotcher JE. Risk factors for pediatric facial trauma in an
+Appalachian region: An epidemiologic review at a single institution.
+2024. Accepted in Journal of Oral and Maxillofacial Surgery. doi: <a
+href="https://doi.org/10.1016/j.joms.2023.12.010">10.1016/j.joms.2023.12.010</a>.</p>
 </div>
 <div id="section-1" class="section level3">
-<h3>2021</h3>
-<p><strong>Deek, R. A.</strong>, &amp; Li, H. (2021). A Zero-Inflated
-Latent Dirichlet Allocation Model for Microbiome Studies. <em>Frontiers
-in genetics</em>, 11, 1844. doi: <a
-href="https://doi.org/10.3389/fgene.2020.602594">10.3389/fgene.2020.602594</a>.</p>
+<h3>2023</h3>
+<p>Khullar K, <strong>Deek RA</strong>, Nelson B, Gaines D, Corrigan KL,
+LeCompte MC, Deville C, Deek MP, Jabbour SK. Gender and the receipt of
+the Association of Residents in Radiation Oncology (ARRO) educator of
+the year award. 2023. Advances in Radiation Oncology: 101305. doi: <a
+href="https://doi.org/10.1016/j.adro.2023.101305">10.1016/j.adro.2023.101305</a>.</p>
+<p><strong>Deek RA</strong>, Li H. Inference of microbial covariation
+networks using copula models with mixture margins. Bioinformatics. 2023.
+39(7):btad413. doi: <a
+href="https://doi.org/10.1093/bioinformatics/btad413">10.1093/bioinformatics/btad413</a>.</p>
 </div>
 <div id="section-2" class="section level3">
-<h3>2019</h3>
-<p><strong>Deek, R.A.</strong><span
-class="math inline">\(^\dagger\)</span>, Nasser, J.<span
-class="math inline">\(^\dagger\)</span>, Ghanem, A.<span
-class="math inline">\(^\dagger\)</span>, Mardelli, M.<span
-class="math inline">\(^\dagger\)</span>, Khazen, G., Salloum, A.K.,
-Abchee, A., Ghassibe-Sabbagh, M. and Zalloua, P. (2019). Genome-wide
-association analysis of HDL-C in a Lebanese cohort. Plos one, 14(6),
-e0218443. doi: <a
-href="https://doi.org/10.1371/journal.pone.0218443">10.1371/journal.pone.0218443</a>.</p>
+<h3>2022</h3>
+<p>McGinniss JE, Whiteside SA, <strong>Deek RA</strong>, Simon-Soro A,
+Graham-Wooten J, Oyster M, Brown MD, Cantu E, Diamond JM, Li H, Christie
+JD, Bushman FD, Collman RG. The lung allograft microbiome associates
+with pepsin, inflammation, and primary graft dysfunction. American
+Journal of Respiratory and Critical Care Medicine. 2022.
+206(12):1508-21. doi: <a
+href="https://doi.org/10.1164/rccm.202112-2786OC">10.1164/rccm.202112-2786OC</a>.</p>
+<p>Deek MP<span class="math inline">\(^\dagger\)</span>, Van der Eecken
+K<span class="math inline">\(^\dagger\)</span>, Sutera P, <strong>Deek
+RA</strong>, Fonteyne V, Mendes AA, Decaestecker K, Kiess AP, Lumen N,
+Phillips R, De Bruycker A, Mishra M, Rana Z, Molitoris J, Lambert B,
+Delrue L, Wang H, Lowe K, Verbeke S, Van Dorpe J, Bultijnck R, Villeirs
+G, De Man K, Ameye F, Song DY, DeWeese T, Paller CJ, Feng FY, Wyatt A,
+Pienta KJ, Diehn M, Bentzen SM, Joniau S, Vanhaverbeke F, De Meerleer G,
+Antonarakis ES, Lotan TL, Berlin A, Siva S, Ost P, Tran PT. Long-term
+outcomes and genetic predictors of response to metastasis-directed
+therapy versus observation in oligometastatic prostate cancer: analysis
+of STOMP and ORIOLE trials. Journal of clinical oncology. 2022.
+40(29):3377-82. doi: <a
+href="https://doi.org/10.1200/JCO.22.00644">10.1200/JCO.22.00644</a>.</p>
+<p>Wei S, Yin D, Yu S, Lin X, Savani MR, Du K, Ku Y, Wu D, Li S, Liu H,
+Tian M, Chen Y, Bowie M, Hariharan S, Waitkus M, Keir S, Sugarman E,
+<strong>Deek RA</strong>, Labrie M, Khasraw M, Lu Y, Mills G, Herlyn H,
+Wu K, Liu L, Wei Z, Flaherty K, Abdullah K, Zhang G, and Ashley D.
+Antitumor activity of a mitochondrial-targeted HSP90 inhibitor in
+gliomas. Clinical Cancer Research. 2022. 28(10):2180-95. doi: <a
+href="https://doi.org/10.1158/1078-0432.ccr-21-0833">10.1158/1078-0432.ccr-21-0833</a>.</p>
 </div>
 <div id="section-3" class="section level3">
-<h3>2018</h3>
-<p>Chen, J.<span class="math inline">\(^\dagger\)</span>, King, E.<span
-class="math inline">\(^\dagger\)</span>, <strong>Deek,
-R.A.</strong><span class="math inline">\(^\dagger\)</span>, Wei, Z., Yu,
-Y., Grill, D., &amp; Ballman, K. (2018). An omnibus test for
-differential distribution analysis of microbiome sequencing data.
-<em>Bioinformatics</em>, 34(4), 643-651. doi: <a
-href="https://doi.org/10.1093/bioinformatics/btx650">10.1093/bioinformatics/btx650</a>.</p>
+<h3>2021</h3>
+<p><strong>Deek RA</strong>, Li H. A zero-inflated latent dirichlet
+allocation model for microbiome studies. Frontiers in Genetics. 2021.
+11:602594. doi: <a
+href="https://doi.org/10.3389/fgene.2020.602594">10.3389/fgene.2020.602594</a>.</p>
 </div>
 <div id="section-4" class="section level3">
+<h3>2019</h3>
+<p><strong>Deek RA</strong><span
+class="math inline">\(^\dagger\)</span>, Nasser J<span
+class="math inline">\(^\dagger\)</span>, Ghanem A<span
+class="math inline">\(^\dagger\)</span>, Mardelli M<span
+class="math inline">\(^\dagger\)</span>, Khazen G, Salloum AK, Abchee A,
+Ghassibe-Sabbagh M, Zalloua P. Genome-wide association analysis of HDL-C
+in a Lebanese cohort. Plos one. 2019. 14(6):e0218443. doi: <a
+href="https://doi.org/10.1371/journal.pone.0218443">10.1371/journal.pone.0218443</a>.</p>
+</div>
+<div id="section-5" class="section level3">
+<h3>2018</h3>
+<p>Chen J<span class="math inline">\(^\dagger\)</span>, King E<span
+class="math inline">\(^\dagger\)</span>, <strong>Deek RA</strong><span
+class="math inline">\(^\dagger\)</span>, Wei Z, Yu Y, Grill D, Ballman
+K. An omnibus test for differential distribution analysis of microbiome
+sequencing data. Bioinformatics. 2018. 34(4):643-51. doi: <a
+href="https://doi.org/10.1093/bioinformatics/btx650">10.1093/bioinformatics/btx650</a>.</p>
+</div>
+<div id="section-6" class="section level3">
 <h3>2015</h3>
 <p>Deek, R. (2015). Lessons From Nature: Defensive Designs for the Built
 Environment. In 5th International Conference on Building Resilience.</p>

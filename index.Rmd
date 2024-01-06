@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Rebecca A. Deek"
 ---
 
 <link rel="stylesheet" href="academicons/css/academicons.min.css"/>
@@ -25,7 +25,7 @@ td.justify {
 
 
 h1, h2, h3, h4 {
-  text-align: center;
+  text-align: left;
 }
 
 body {
@@ -33,12 +33,13 @@ text-align: justify;
 }
 ```
 
-## Rebecca A. Deek
-#### PhD Candidate in Biostatistics
-#### Perelman School of Medicine University of Pennsylvania
+#### Assistant Professor of Biostatistics, University of Pittsburgh
 
-<td class="justify"> I am a PhD candidate in Biostatistics at the [University of Pennsylvania](https://www.dbei.med.upenn.edu/). My advisor is Professor [Hongzhe Li](http://statgene.med.upenn.edu/) and my dissertation research focuses on statistical methods for omics data, specifically methods for the analysis of microbiome data. In this work, I develop fixed- and random-effects mixture margin copula models for quantifying microbial co-variations and a generative probabilistic model for dimensionality reduction and detection of sparse latent clusters in microbiome data. More recently, I have become interested in developing novel methodology for combining data from different studies, as well as different omics platforms.
+-----
 
-I also work closely with clinicians to determine the impact the microbiome has on human-host health and with radiation oncologists to identify biomarkers of treatment response and to better understand the biological underpinnings of the various states of metastasis. Broadly stated, my research interests are in statistical and machine learning methods for large, complex data sets, motivated by real world applications.
+<td class="justify"> I am an Assistant Professor of Biostatistics at the [University of Pittsburgh](https://www.sph.pitt.edu/biostatistics). My research focuses on statistical methods for omics data, with an emphasis on metagenomics and multiomics integration. As sequencing technologies continue to advance and their adoption in large-scale medical studies grows, many unique statistical and computational challenges cannot be addressed with existing techniques thus requiring methodological innovation.
 
-I previously received my masters in Biostatistics from [Columbia University](https://www.publichealth.columbia.edu/academics/departments/biostatistics). My thesis investigated the association between genetic markers and HDL cholesterol levels in a Lebanese population. I also obtained my bachelors in Biology from [New Jersey Institute of Technology](https://biology.njit.edu/).</td>
+I also work closely with clinicians to determine the impact that genetics and genomics, as well as their interplay, have on human health. Broadly, my research interests are in statistical and machine learning methods for large and complex data sets, motivated by real world applications.
+
+I received my PhD from the [University of Pennsylvania](https://www.dbei.med.upenn.edu/) under the supervision of Professor [Hongzhe Li](http://statgene.med.upenn.edu/) and Masters of Science in Biostatistics from [Columbia University](https://www.publichealth.columbia.edu/academics/departments/biostatistics). I also obtained my Bachelors of Science in Biology from [New Jersey Institute of Technology](https://biology.njit.edu/).</td>
+-----
