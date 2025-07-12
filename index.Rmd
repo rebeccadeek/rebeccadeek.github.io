@@ -7,8 +7,8 @@ title: "Rebecca A. Deek"
 ```{css, echo = FALSE}
 table, td, th {
   border: none;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 10em;
+  padding-right: 10em;
   margin-left: auto;
   margin-right: auto;
   margin-top: 1em;
@@ -33,11 +33,11 @@ text-align: justify;
 }
 ```
 
-#### Assistant Professor of Biostatistics, University of Pittsburgh
+#### Assistant Professor, University of Pittsburgh
 
 -----
 
-<td class="justify"> I am an Assistant Professor of Biostatistics at the [University of Pittsburgh](https://www.sph.pitt.edu/biostatistics). My research focuses on statistical methods for omics data, with an emphasis on metagenomics and multiomics integration. As sequencing technologies continue to advance and their adoption in large-scale medical studies grows, many unique statistical and computational challenges cannot be addressed with existing techniques thus requiring methodological innovation.
+<td class="justify"> I am an Assistant Professor of Biostatistics and Health Data Science at the [University of Pittsburgh](https://www.sph.pitt.edu/biostatistics). My research focuses on statistical methods for omics data, with an emphasis on metagenomics and multiomics integration. As sequencing technologies continue to advance and their adoption in large-scale medical studies grows, many unique statistical and computational challenges cannot be addressed with existing techniques thus requiring methodological innovation.
 
 I also work closely with clinicians to determine the impact that genetics and genomics, as well as their interplay, have on human health. Broadly, my research interests are in statistical and machine learning methods for large and complex data sets, motivated by real world applications.
 

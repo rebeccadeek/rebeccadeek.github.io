@@ -12,13 +12,30 @@ output:
 
 In the following, $^\dagger$ denotes equal contribution.
 
+### 2025
+Yan B, Nam Y, Li L, **Deek RA**, Li H, Ma S. Recent advances in deep learning and language models for studying the microbiome. Frontiers in Genetics. 2025. 15, 1494474.
+
 ### 2024
 
-Deek AJ, Clegg DJ, **Deek RA**, Blackburn C, Scott CA, Holley T, Gotcher JE. Risk factors for pediatric facial trauma in an Appalachian region: An epidemiologic review at a single institution. 2024. Accepted in Journal of Oral and Maxillofacial Surgery. doi: [10.1016/j.joms.2023.12.010](https://doi.org/10.1016/j.joms.2023.12.010).
+Wang T, Kim J, Kumar R, **Deek RA**, Stephenson R, Mayer T, Saraiya B, Ghodoussipour S, Jang T, Golombos D, Packiam V, Ennis R, Hathout L, Jabbour SK, Guler O, Onal C, Deek MP. Landscape and prognostic significance of oncogene drivers in metastatic castration sensitive prostate cancer. Translational Cancer Research. 2024. 13(11), 6235.
+
+Duan, H., Ren J, Wei S, Li C, Wang Z, Li M, Wei Z, Yang Z, Liu Y, Xie Y, Wu S, Hu W, Guo C, Zhang X, Liang L, Yu C, Mou Y, Jiang Y, Lu H, Sugarman E, **Deek RA**, Chen Z, Chen L, Chen Y, Yao M, Liu L, Mou Y, Zhang G. Integrated analyses of Multi-omic data derived from paired primary lung cancer and brain metastasis reveals the metabolic vulnerability as a novel therapeutic target. Genome Medicine. 2024. 16(1), 1-30.
+
+Little A, **Deek RA**, Zhang A, Zhao N, Ling W, Wu MC. Enhanced visualization of microbiome data in repeated measures designs. Frontiers in Genetics. 2024. 15, 1480972.
+
+Sutera P, Kim J, Kumar R, **Deek RA**, Stephenson R, Mayer T, Saraiya B, Ghodoussipour S, Jang T, Golombos D, Packiam V, Ennis R, Hathout L, Jabbour SK, Guler O, Onal C, Tran PT, Deek MP. PIK3/Akt/mTOR pathway alterations in metastatic castration-sensitive prostate cancer. The Prostate. 2024. 1-8.
+
+**Deek RA**, Ma S, Lewis JD, Li H. Statistical and computational methods for integrating microbiome, host genomics, and metabolomics data. eLife. 2024. 13:e88956.
+
+Sutera P$^\dagger$, Deek MP$^\dagger$, **Deek RA**, Guler OC, Hurmuz P, Reyhan M, Rowe S, Radwan N, Dipasquale S, Hrinivich WT, Lowe K, Ren L, Saraiya B, Ennis R, Hathout L, Mayer T, Deweese TL, Song DY, Kiess A, Oymak E, Pienta K, Feng F, Pomper M, Ozyigit G, Tran PT, Onal C, Phillips RM. Prostate-specific membrane antigen PET response associates with metastasis-free survival following stereotactic ablative radiation in oligometastatic prostate cancer. Advances in Radiation Oncology. 2024. 101507.
+
+Deek AJ, **Deek RA**, Clegg DJ, Blackburn C, Holley T, Gotcher JE. To what extent do oral maxillofacial surgery residents suffer from imposter syndrome? Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology. 2024. 
+
+Khullar K, **Deek RA**, Nelson B, Gaines D, Corrigan KL, LeCompte MC, Deville C, Deek MP, Jabbour SK. Gender and the receipt of the Association of Residents in Radiation Oncology (ARRO) educator of the year award. 2023. Advances in Radiation Oncology: 101305. doi: [10.1016/j.adro.2023.101305](https://doi.org/10.1016/j.adro.2023.101305).
 
 ### 2023
 
-Khullar K, **Deek RA**, Nelson B, Gaines D, Corrigan KL, LeCompte MC, Deville C, Deek MP, Jabbour SK. Gender and the receipt of the Association of Residents in Radiation Oncology (ARRO) educator of the year award. 2023. Advances in Radiation Oncology: 101305. doi: [10.1016/j.adro.2023.101305](https://doi.org/10.1016/j.adro.2023.101305).
+Deek AJ, Clegg DJ, **Deek RA**, Blackburn C, Scott CA, Holley T, Gotcher JE. Risk factors for pediatric facial trauma in an Appalachian region: An epidemiologic review at a single institution. 2023. Journal of Oral and Maxillofacial Surgery. doi: [10.1016/j.joms.2023.12.010](https://doi.org/10.1016/j.joms.2023.12.010).
 
 **Deek RA**, Li H. Inference of microbial covariation networks using copula models with mixture margins. Bioinformatics. 2023. 39(7):btad413. doi: [10.1093/bioinformatics/btad413](https://doi.org/10.1093/bioinformatics/btad413).
 

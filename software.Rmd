@@ -6,8 +6,10 @@ title: "Open-source software"
 
 -----
 
+## `CoMiCoN`
+[CoMiCoN](https://github.com/rebeccadeek/CoMiCoN) is an R package for microbial covariation and network analysis. It uses a mixture margin copula model to model a pair of microbial relative abundances. The copula dependence parameter, $\theta$, captures the covariation for the pair of microbes and can be used to build covariation networks. The package implements a two-stage maximum likelihood estimation (tsMLE) procedure and a two-stage likelihood ratio test (tsLRT) for the CoMiCoN model. For information can be found [here](https://academic.oup.com/bioinformatics/article/39/7/btad413/7209520).
+
+
 ## `zinLDA`
 
-Zero-inflated latent Dirichlet allocation (zinLDA) is an unsupervised, hierarchical, generative probabilistic model that facilitates dimensionality reduction and detection of sparse latent clusters. This package, hosted on [GitHub](https://github.com/rebeccadeek/zinLDA), provides implementation of a Markov chain Monte Carlo (MCMC) sampling procedure for the zinLDA model. Additionally, it provides a method for simulating sparse count data from an underlying zinLDA model.
-
-While the original [paper](https://doi.org/10.3389/fgene.2020.602594) developed this model for applications to microbiome data and microbial subcommunity detection, it is designed to be portable to numerous types of discrete count data.
+Zero-inflated latent Dirichlet allocation ([zinLDA](https://github.com/rebeccadeek/zinLDA)) is an unsupervised, hierarchical, generative probabilistic model that facilitates dimensionality reduction and detection of sparse latent clusters. This package provides implementation of a Markov chain Monte Carlo (MCMC) sampling procedure for the zinLDA model. Additionally, it provides a method for simulating sparse count data from an underlying zinLDA model. While the original [paper](https://doi.org/10.3389/fgene.2020.602594) developed this model for applications to microbiome data and microbial subcommunity detection, it is designed to be portable to numerous types of discrete count data.

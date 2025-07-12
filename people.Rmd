@@ -1,0 +1,16 @@
+---
+title: "People"
+---
+
+<link rel="stylesheet" href="academicons/css/academicons.min.css"/>
+
+-----
+
+## Current
+
+- Tianshu Lu | PhD | Biostatistics
+- Crystal Zang | PhD | Biostatistics [Co-advised with Lu Tang]
+
+## Alumni
+- Nicholas Heaton | MS | Biostatistics | 2025
+    - First position: Statistician at University of Michigan
