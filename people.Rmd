@@ -8,6 +8,7 @@ title: "People"
 
 ## Current
 
+- Ben Witkowski | MS | Biostatistics
 - Tianshu Lu | PhD | Biostatistics
 - Crystal Zang | PhD | Biostatistics [Co-advised with Lu Tang]
 

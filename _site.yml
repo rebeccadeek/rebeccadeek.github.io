@@ -4,6 +4,8 @@ navbar:
   title: "Rebecca A. Deek"
   type: default
   left:
+    - text: "People"
+      href: people.html
     - text: "Publications"
       href: publications.html
     - text: "Open-source software"
