@@ -7,11 +7,14 @@ title: "People"
 -----
 
 ## Current
-
-- Ben Witkowski | MS | Biostatistics
+- Hannah Schilpp | MS | Biostatistics
+- Ryan Karbon | MS | Biostatistics
 - Tianshu Lu | PhD | Biostatistics
-- Crystal Zang | PhD | Biostatistics [Co-advised with Lu Tang]
 
 ## Alumni
+- Ben Witkowski | MS | Biostatistics
+  - First position: Health Science Specialist, VA Pittsburgh Healthcare System
+- Crystal Zang | PhD | Biostatistics [Co-advised with Lu Tang]
+  - First position: Senior Statistician, Johnson \& Johnson
 - Nicholas Heaton | MS | Biostatistics | 2025
     - First position: Statistician at University of Michigan
