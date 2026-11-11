@@ -14,6 +14,8 @@ $*$ Advisee/mentee; $\dagger$ Co-first author; $\S$ Co-senior author
 
 ### 2026
 
+**Zang C**$^*$, **Deek RA**$^\S$, and Tang L$^\S$. Supervised Matrix Factorization for Estimating Individualized Treatment Rule: Incorporating Medical Notes in Decision Making. *Statistical Analysis and Data Mining: An ASA Data Science Journal* (2026). doi: [10.1002/sam.70120](https://doi.org/10.1002/sam.70120)
+
 **Zang C**$^*$, Tang L, **Deek RA**. Supervised and covariate-adjusted dimension reduction for prediction and visualization using microbiome data. *Briefings in Bioinformatics* (2026). doi: [10.1093/bib/bbag590](https://doi.org/10.1093/bib/bbag590)
 
 Zhang VZ$^\dagger$, Ferreira PCL$^\dagger$, Dong Y, Minhas D, Povala G, Bellaver B, Alzheimer's Disease Neuroimaging Initiative, Pascoal TA, Zeng X, Karikari TK, Cohen AD, **Deek RA**, Wu Q$^\S$, Tudorascu DL$^\S$. Evaluation of harmonization methods to mitigate assay and cohort effects in plasma p-tau217. *Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring* (2026). doi: [10.1002/dad2.70518](https://doi.org/10.1002/dad2.70518)

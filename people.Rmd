@@ -13,8 +13,8 @@ title: "People"
 
 ## Alumni
 - Ben Witkowski | MS | Biostatistics
-  - First position: Health Science Specialist, VA Pittsburgh Healthcare System
+  - <u>First position</u>: Health Science Specialist, VA Pittsburgh Healthcare System
 - Crystal Zang | PhD | Biostatistics [Co-advised with Lu Tang]
-  - First position: Senior Statistician, Johnson \& Johnson
+  - <u>First position</u>: Senior Statistician, Johnson \& Johnson
 - Nicholas Heaton | MS | Biostatistics | 2025
-    - First position: Statistician at University of Michigan
+    - <u>First position</u>: Statistician at University of Michigan
